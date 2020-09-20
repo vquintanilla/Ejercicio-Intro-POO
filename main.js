@@ -37,3 +37,4 @@ console.log("El IMC es: " + valeria.calcularIMC());
 console.log("es mayor de edad: " + valeria.esMayorDeEdad());
 console.log("el id es: " + valeria.generarID());
 //console.log("el id es: " + this.id);
+
